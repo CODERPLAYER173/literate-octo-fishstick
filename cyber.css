@@ -3,6 +3,21 @@
   transition: color 0.3s ease;
   cursor: pointer;
 }
+.c1{
+  background:orange;
+  width:100%;
+  height:33.3%;
+}
+.c2{
+  background:white;
+  width:100%;
+  height:33.3%;
+}
+.c3{
+  background:green;
+  width:100%;
+  height:33.3%;
+}
 .image-2{
   width: 100%;
   height: 100%;
@@ -85,3 +100,4 @@ button {
   position: relative;
   left: 700px;
 }
+

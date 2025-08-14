@@ -26,9 +26,7 @@ p:hover {
   text-align: center;
   display: inline;
 }
-body {
-  background-color: hsl(198, 57%, 66%);
-}
+
 .paragraph-2 {
   font-size: 18px;
   color: #ffffff;
@@ -85,3 +83,4 @@ button {
   position: relative;
   left: 700px;
 }
+
